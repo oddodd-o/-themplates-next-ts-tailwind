@@ -5,11 +5,12 @@
 ### 1.1. 프로젝트 명
 # -themplates-next-ts-tailwind
 
-### 1.2 프로젝트 구조
+### 1.2 프로젝트 폴더 구조
+
 ```bash
-📂 src/  
-├── 📂 app/                       # Next.js 파일 기반 라우팅  
-│   ├── 📂 api/                   # API 라우트 폴더  
+📂 src/
+├── 📂 app/                       # Next.js 파일 기반 라우팅
+│   ├── 📂 api/                   # API 라우트 폴더
 │   │   └── ...                   # API 관련 파일들
 │   ├── 📂 auth/                  # 인증 관련 페이지
 │   │   ├── 📂 login/             # 로그인 페이지

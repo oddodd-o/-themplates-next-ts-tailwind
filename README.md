@@ -6,9 +6,9 @@
 # -themplates-next-ts-tailwind
 
 ### 1.2 프로젝트 구조
-📂 src/
-├── 📂 app/                       # Next.js 파일 기반 라우팅
-│   ├── 📂 api/                   # API 라우트 폴더
+📂 src/  
+├── 📂 app/                       # Next.js 파일 기반 라우팅  
+│   ├── 📂 api/                   # API 라우트 폴더  
 │   │   └── ...                   # API 관련 파일들
 │   ├── 📂 auth/                  # 인증 관련 페이지
 │   │   ├── 📂 login/             # 로그인 페이지

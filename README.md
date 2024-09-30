@@ -6,6 +6,7 @@
 # -themplates-next-ts-tailwind
 
 ### 1.2 프로젝트 구조
+```bash
 📂 src/  
 ├── 📂 app/                       # Next.js 파일 기반 라우팅  
 │   ├── 📂 api/                   # API 라우트 폴더  
@@ -89,4 +90,4 @@
 ├── 📄 tsconfig.json              # TypeScript 설정 파일
 ├── 📄 next.config.js             # Next.js 설정 파일
 └── 📄 README.md                  # 프로젝트 설명서
-
+```
